@@ -7,5 +7,14 @@
     "validations": {},
     "options": {},
     "fieldType": "string"
+  },
+  {
+    "name": "my-age",
+    "fieldId": "my-age",
+    "validations": {},
+    "options": {},
+    "componentId": "integer",
+    "modelId": "new-model",
+    "fieldType": "number"
   }
 ]
