@@ -4,6 +4,7 @@
     "modelId": "new-model",
     "localization": false,
     "type": "JSON",
-    "createdBy": "user"
+    "createdBy": "user",
+    "description": "description of new-model"
   }
 ]
