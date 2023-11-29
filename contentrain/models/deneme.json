@@ -16,5 +16,14 @@
     "componentId": "email",
     "modelId": "deneme",
     "fieldType": "string"
+  },
+  {
+    "name": "feyzan12345",
+    "fieldId": "feyzan12345",
+    "validations": {},
+    "options": {},
+    "componentId": "url",
+    "modelId": "deneme",
+    "fieldType": "string"
   }
 ]
