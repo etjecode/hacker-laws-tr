@@ -43,5 +43,14 @@
     "componentId": "url",
     "modelId": "deneme",
     "fieldType": "string"
+  },
+  {
+    "name": "123Feyzan",
+    "fieldId": "123feyzan",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "deneme",
+    "fieldType": "string"
   }
 ]
