@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "12345",
+    "fieldId": "12345",
+    "validations": {},
+    "options": {},
+    "componentId": "integer",
+    "modelId": "deneme",
+    "fieldType": "number"
+  }
+]
