@@ -1,0 +1,11 @@
+[
+  {
+    "name": "deneme",
+    "fieldId": "deneme",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "deneme",
+    "fieldType": "string"
+  }
+]
