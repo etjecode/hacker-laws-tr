@@ -52,5 +52,14 @@
     "componentId": "single-line-text",
     "modelId": "deneme",
     "fieldType": "string"
+  },
+  {
+    "name": "feyzan1234",
+    "fieldId": "feyzan1234",
+    "validations": {},
+    "options": {},
+    "componentId": "integer",
+    "modelId": "deneme",
+    "fieldType": "number"
   }
 ]
