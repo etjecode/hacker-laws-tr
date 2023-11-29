@@ -7,5 +7,14 @@
     "componentId": "integer",
     "modelId": "deneme",
     "fieldType": "number"
+  },
+  {
+    "name": "feyzan123",
+    "fieldId": "feyzan123",
+    "validations": {},
+    "options": {},
+    "componentId": "email",
+    "modelId": "deneme",
+    "fieldType": "string"
   }
 ]
